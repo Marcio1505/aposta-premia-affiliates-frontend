@@ -1,0 +1,11 @@
+export { default as Dashboard } from "./Dashboard";
+export { default as CommissionsPlan } from "./CommissionsPlan";
+export { default as PostbackLogs } from "./PostbackLogs";
+export { default as PostbackSettings } from "./PostbackSettings";
+export { default as Payments } from "./Payments";
+export { default as MarketingTools } from "./MarketingTools";
+export { default as MarketingLinks } from "./MarketingLinks";
+export { default as ReportsReceives } from "./ReportsReceives";
+export { default as ReportActivities } from "./ReportActivities";
+export { default as ReportEarnings } from "./ReportEarnings";
+export { default as ReportMedia } from "./ReportMedia";
